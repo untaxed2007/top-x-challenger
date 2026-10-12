@@ -1,2 +1,2 @@
 # top-x-challenger
--[The 67th Permutation Problem] - {https://codeforces.com/contest/2218/problem/C}
+-[The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C)
